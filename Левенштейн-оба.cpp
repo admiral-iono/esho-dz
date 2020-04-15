@@ -35,10 +35,6 @@ int lev(string f, string s, int repl = 1, int del = 1, int add = 1)
 
 signed main()
 {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-	cout.tie(nullptr);
-
 	string f, s;
 	cin >> f >> s;
 
